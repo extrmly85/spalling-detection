@@ -7,7 +7,7 @@ Course mini-project for **UE24CS352A – Machine Learning**.
 
 | Name | SRN | Contribution |
 |---|---|---|
-| Sudhanwa | PES2UG24CS531 | _(fill in, e.g. data pipeline, baseline, ...)_ |
+| Sudhanwa | PES2UG24CS531 | 	Data preparation and stratified splits, HOG + SVM/logistic regression baseline, two-stage ResNet50 transfer learning (plus EfficientNet-B0 / MobileNetV2), evaluation metrics and Grad-CAM error analysis, Gradio demo app, repository setup and README|
 | S Bindu | PES2UG25CS805 | _(fill in, e.g. transfer learning, Grad-CAM, demo, ...)_ |
 
 ## Quick demo
